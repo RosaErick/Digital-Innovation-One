@@ -1,0 +1,50 @@
+.flex {
+max-width: 300px;
+padding:10px 10px;
+border: 2px solid #000;
+display:flex;
+}
+
+
+.item {
+background-color:aqua;
+margin: 5px;
+}
+
+.flex-container {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+
+}
+
+.flex-item {
+background-color: blue;
+height:50px;
+width:50px;
+line-height: 50px;
+margin:5px;
+text-align: center;
+color: #fff;
+
+
+
+}
+
+.row-reverse {
+flex-direction: row-reverse;
+
+
+}
+
+.row-reverse li { 
+
+
+}
+
+.column {
+flex-direction: column;
+
+
+}
