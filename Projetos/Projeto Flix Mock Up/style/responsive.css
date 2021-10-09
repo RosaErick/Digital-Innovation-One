@@ -1,0 +1,46 @@
+@media screen and (max-width: 768px) {
+
+header .container{
+flex-direction: column;
+
+}
+
+.btn{
+    margin-top:5px;
+    width:190px;
+    height:50px;
+}
+
+.filmeprincipal {
+justify-content: start;
+
+}
+
+.filmeprincipal .titulo {
+    margin-top:50px;
+}
+
+.filmeprincipal .description{
+
+font-size:12px;
+margin-bottom:10px;
+
+
+}
+
+.item {
+width: 60%;
+
+}
+
+}
+
+
+@media screen and (min-width: 1000px) {
+
+.description {
+width:50%;
+
+}
+
+}
