@@ -1,4 +1,4 @@
-#Projeto Dino Game 
+# Projeto Dino Game 
 
 Recriação do jogo do dinossauro do browser Chrome.
 
